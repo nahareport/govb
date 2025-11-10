@@ -1,0 +1,2 @@
+# govb
+amazonの商品ページからvaluebooksに行けるブックマークレットです
